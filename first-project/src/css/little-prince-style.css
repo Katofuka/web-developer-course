@@ -1,20 +1,33 @@
 body{
-    background-color: #faebd0;
+    background-color: rgb(255, 255, 224);
+    font-size: 10pt;
+    
+
 }
 
 h1, h2{
     text-align: center; 
+    color: rgb(204,0,0)    
 }
 
-h2{ 
-    color: red;
+h1{
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
 }
+
+
 
 
 .text_italic {
     font-style: italic;
 }
 
-text_upper-case {
+.text_upper-case {
     text-transform: uppercase;
+}
+
+p {
+    margin-left: 20;
+    margin-right: 20;
+    margin-bottom: 3;
 }
