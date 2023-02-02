@@ -41,6 +41,7 @@ nav {
 
 .example {
     position: relative;
+    /* vertical-align: top; выравнивание блоков по вертикали*/ 
 }
 
 .red {
